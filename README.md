@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @alisterdsouzaa
 - 👀 I’m interested in Learning Technologies used in industries & Software Development. 
-- 🌱 I’m currently working at LDRA Technology as a Field Application Engineer.
+- 🌱 I’m currently working as an Engineer.
 - 📫 How to reach me : alisterdsouzaa@outlook.com / @alisterdsouzaa 
 
 <!---
