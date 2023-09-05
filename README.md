@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 👋 Hi, I’m @alisterdsouzaa<br>👀 I’m interested in Learning Technologies used in industries & Software Development.<br>🌱 I’m currently working as an Engineer.<br>📫 How to reach me : alisterdsouzaa@outlook.com / @alisterdsouzaa
 
 
@@ -17,12 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=alisterdsouzaa&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=alisterdsouzaa&icon=0&color=5)](https://visitcount.itsvg.in)
