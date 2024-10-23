@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m @alisterdsouzaa<br>👀 I’m interested in Learning Technologies used in industries & Software Development.<br>🌱 I’m currently working as an Engineer.<br>📫 How to reach me : alisterdsouzaa@outlook.com / @alisterdsouzaa
+👋 Hi, I’m @alisterdsouzaa<br>👀 I’m interested in Learning Technologies used in industries, FW and SW Development.<br>🌱 I’m currently working as a Firmware Developer.<br>📫 How to reach me : alisterdsouzaa@outlook.com / @alisterdsouzaa
 
 
 ## 🌐 Socials:
